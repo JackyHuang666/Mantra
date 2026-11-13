@@ -1,0 +1,10 @@
+{
+  "name": "sound-resonance",
+  "version": "1.0.0",
+  "private": true,
+  "description": "聲音共振 / 能量場 / 神聖幾何 — 多人即時聲音互動網站",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
